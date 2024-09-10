@@ -1,7 +1,6 @@
 ## Hi, I’m Julian. 👋
 
 
-- 🔭 I’m currently working at CybacTI as part of my summer internship.
 - 🌱 I’m currently learning about all aspects of the programming world, and I'm passionate about exploring new technologies.
 - 👯 I’m looking to collaborate on any software development projects, i think it’s a very good oportunity to learn and grow as a developer.
 
