@@ -31,7 +31,7 @@ I strongly believe in the power of technology to **solve real-world problems**, 
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianCastroAlonso&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliox14&show_icons=true&theme=radical">
 </div>
 
 ### ⚡ Fun Facts
@@ -41,8 +41,8 @@ I strongly believe in the power of technology to **solve real-world problems**, 
 - ✈️ Planning to study abroad in another part of the world 🌍
 
 ### 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-antonio-castro-alonso-a06438304/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/Juliox14))  
 
 ---
 > "Convinced that every mistake is a great oportunity to learn and grow" 🔝
