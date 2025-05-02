@@ -35,10 +35,10 @@ I strongly believe in the power of technology to **solve real-world problems**, 
 </div>
 
 ### ⚡ Fun Facts
-- 🎯 **My goal**: Becoming a top AI Software Engineer 🤖
+- 🎯 **My goal**: Becoming a top Software Engineer 
 - 📖 **I love learning**: Always exploring new technologies & frameworks
 - 🏋️ **Fitness enthusiast**: I've been lifting for almost 3 years 💪
-- ✈️ Planning to study abroad in another part of the world 🌍
+- ✈️ On the way to Canada 🌍🍁
 
 ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-antonio-castro-alonso-a06438304/)  
